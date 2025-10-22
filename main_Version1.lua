@@ -1,6 +1,3 @@
--- Tiny Hollow Knight–style demo for LÖVE (Love2D)
--- Save this as main.lua inside a folder and run with `love <folder>`.
-
 local lg = love.graphics
 local lk = love.keyboard
 local audio = love.audio
